@@ -3,7 +3,7 @@
 <h6> Also consistently working to improve in Java programming and React.js </h6>
 
 
-<p width="300" heigth="400" align="left"><img src="https://user-images.githubusercontent.com/77334757/181921179-62011bad-80c6-474a-b395-ea43b6acd1e1.gif"/></p>
+<p width="150" heigth="100" align="left"><img src="https://user-images.githubusercontent.com/77334757/181921179-62011bad-80c6-474a-b395-ea43b6acd1e1.gif"/></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
