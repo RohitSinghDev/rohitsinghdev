@@ -25,10 +25,10 @@
 </p> 
 
 
- <br>
+ <br></br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitsinghdev&show_icons=true&locale=en&layout=compact" alt="rohitsinghdev" /></p>
-
+<br></br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rohitsinghdev&show_icons=true&locale=en" alt="rohitsinghdev" /></p>
  
  
