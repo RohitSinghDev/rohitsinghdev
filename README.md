@@ -8,7 +8,7 @@
 - 📫 How to reach me **rohit092002g@gmail.com** 
 
 <div display="flex">
- <div display="inline-block">
+ <div display="inline-block" max-width="150" align="left">
  <h3 id="Connect" align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://twitter.com/@i_amrohitsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@i_amrohitsingh" height="30" width="40" /></a>
@@ -18,7 +18,7 @@
  </div>
 
  
- <div display="inline-block">
+ <div display="inline-block" max-width="150" align="left">
  <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://docs.soliditylang.org/en/v0.8.15/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="javascript" width="40" height="40"/> </a>
