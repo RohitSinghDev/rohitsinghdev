@@ -8,7 +8,7 @@
 - 📫 How to reach me **rohit092002g@gmail.com** 
 
 <div display="flex">
- <div>
+ <div display="inline-block">
  <h3 id="Connect" align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://twitter.com/@i_amrohitsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@i_amrohitsingh" height="30" width="40" /></a>
@@ -16,7 +16,7 @@
 <a href="https://instagram.com/rohitsingh_2009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohitsingh_2009" height="30" width="40" /></a>
 </p>
  </div>
- <div>
+ <div display="inline-block">
   <p width="150" heigth="100" align="right" margin="0" padding="0"><img src="https://user-images.githubusercontent.com/77334757/181923648-b8218db4-6e94-45dd-9313-a6fe5ba1d3a8.gif"/></p>
  </div>
  </div>
