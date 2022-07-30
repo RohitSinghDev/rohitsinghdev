@@ -1,5 +1,9 @@
-<h1 align="center">Hey there 👋, I'm Rohit Singh</h1>
-<h3 align="center">Passionate about Blockchain and Defi implementations</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Rohit Singh</h1>
+<h3 align="center">Deep Diving into Web3, Blockchain Development and Defi implementations...</h3>
+<h6> Also consistently working to improve in Java programming and React.js </h6>
+
+
+![coding](https://user-images.githubusercontent.com/77334757/181921179-62011bad-80c6-474a-b395-ea43b6acd1e1.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
