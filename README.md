@@ -29,7 +29,7 @@
 
 <img align="left" width="500" margin="20" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitsinghdev&theme=jolly&show_icons=true&locale=en&layout=compact" alt="rohitsinghdev" >
 
-<img align="left" width="500" margin="20" src="https://github-readme-stats.vercel.app/api?username=rohitsinghdev&theme=jolly&show_icons=true&locale=en" alt="rohitsinghdev" >
+<img align="left" width="500" margin="20" src="https://github-readme-stats.vercel.app/api?username=rohitsinghdev&theme=jolly&layout=compact&show_icons=true&locale=en" alt="rohitsinghdev" >
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rohitsinghdev&theme=jolly" width="500">
  
