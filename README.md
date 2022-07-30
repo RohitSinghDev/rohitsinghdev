@@ -2,7 +2,7 @@
 <h3 align="center">Deep Diving into Web3, Blockchain Development and Defi implementations...Also consistently working to improve in Java programming and React.js</h3>
 
 
-### Talk about roles, opportunities or creating projects:question::point_right: <a href="#Connect"><h3>Connect</a></h3>:sparkles:
+<h3> Talk about roles, opportunities or creating projects:question::point_right:<a href="#Connect"><h3>Connect</a></h3>:sparkles: </h3>
 - 💬 Always ready to talk about ``` String[] topics = new String[]{ "Blockchain", "Java", "Python", "C","React.js" }```
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1ukG9Zwl7pcFSJv_goHclol2rUHK_LASC/view?usp=sharing)
 - 📫 How to reach me **rohit092002g@gmail.com**
