@@ -5,7 +5,7 @@
 ### Talk about roles, opportunities or creating projects:question::point_right:[Connect](#Connect):sparkles: 
 - 💻 B.Tech in Computer Science and Engineering from PES University, Bengaluru, India. 
 - 💬 Always ready to talk about ``` String[] topics = new String[]{ "Blockchain", "Java", "Python", "C","React.js" }```
-- 📄 Know about my work & experiences [My Resume]([https://drive.google.com/file/d/1ukG9Zwl7pcFSJv_goHclol2rUHK_LASC/view?usp=sharing](https://drive.google.com/file/d/1BUIglDX0Ds9DNnkwM_4Pjuv8iBQwiTmo/view?usp=sharing))
+- 📄 Know about my work & experiences [My Resume]([https://drive.google.com/file/d/1BUIglDX0Ds9DNnkwM_4Pjuv8iBQwiTmo/view?usp=sharing])
 - 📫 How to reach me **rohit092002g@gmail.com** 
 
 
